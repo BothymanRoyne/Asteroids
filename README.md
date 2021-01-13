@@ -1,4 +1,4 @@
-Simple Asteroids clone using GDI+.
+Asteroids clone using GDI+.
 
 W for thrust
 A for left turn
@@ -6,4 +6,4 @@ D for right turn
 Space for shoot
 P for pause
 
-If an Xbox controller is detected, the game will use that as the input source.
+Uses input abstraction, allowing for use of an Xbox controller or a keyboard to operate the game.
